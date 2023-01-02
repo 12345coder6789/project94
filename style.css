@@ -1,0 +1,37 @@
+html{
+    font-family: 'Dancing Script', cursive;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 29%, rgba(0,255,246,1) 76%);
+}
+#ti{
+color: rgb(35, 13, 13);
+font-family: 'Yeon Sung';
+font-size: 45px;
+height:10px;
+background-color:blue;
+
+}
+
+.login_div
+{
+	background:rgb(157, 219, 248);
+    float: none;
+    border-radius: 15px;
+    width:350px;
+    height:400px;
+   margin-top: 50px;
+}
+
+#log_in{
+    border-radius: 15px;
+    background-color: rgb(25, 1, 135);
+    width:65px;
+    height:40px;
+ font-family:'ms boli font';
+    color: cornsilk;
+}
+
+
+img{
+    height:100px;
+    width:105px;
+}
